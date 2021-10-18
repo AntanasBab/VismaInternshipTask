@@ -1,0 +1,170 @@
+[
+  {
+    "Name": "Red Hood",
+    "Author": "Knowles Ellison",
+    "Category": "Fantasy",
+    "Language": "Lithuanian",
+    "Publication_date": "2021-10-17",
+    "ISBN": 122
+  },
+  {
+    "Name": "Red Hood",
+    "Author": "Knowles Ellison",
+    "Category": "Fantasy",
+    "Language": "Lithuanian",
+    "Publication_date": "2021-10-17",
+    "ISBN": 122
+  },
+  {
+    "Name": "Fast and Fat",
+    "Author": "Flossie Sweet",
+    "Category": "Autobiography",
+    "Language": "German",
+    "Publication_date": "2020-03-18",
+    "ISBN": 1794511
+  },
+  {
+    "Name": "Grevious Novel",
+    "Author": "Angel Moody",
+    "Category": "Adventure",
+    "Language": "English",
+    "Publication_date": "2016-08-10",
+    "ISBN": 2109253
+  },
+  {
+    "Name": "Geronimo!",
+    "Author": "Casey Salas",
+    "Category": "Self-improvement",
+    "Language": "German",
+    "Publication_date": "2014-11-27",
+    "ISBN": 3772429
+  },
+  {
+    "Name": "Red Scarf",
+    "Author": "Angelina Mitchell",
+    "Category": "Thriller",
+    "Language": "English",
+    "Publication_date": "2016-04-26",
+    "ISBN": 3047986
+  },
+  {
+    "Name": "Achtung!",
+    "Author": "Lee Mcmahon",
+    "Category": "Autobiography",
+    "Language": "German",
+    "Publication_date": "2016-10-19",
+    "ISBN": 2121559
+  },
+  {
+    "Name": "Le Baton",
+    "Author": "Mosley Quinn",
+    "Category": "Autobiography",
+    "Language": "French",
+    "Publication_date": "2021-09-09",
+    "ISBN": 2069332
+  },
+  {
+    "Name": "The Greatest Beast",
+    "Author": "Mcgowan Wilder",
+    "Category": "Fantasy",
+    "Language": "Lithuanian",
+    "Publication_date": "2019-06-21",
+    "ISBN": 3053531
+  },
+  {
+    "Name": "Squeel of Fortune",
+    "Author": "Marquita Dennis",
+    "Category": "Sci-Fi",
+    "Language": "English",
+    "Publication_date": "2015-07-13",
+    "ISBN": 3320637
+  },
+  {
+    "Name": "Alien",
+    "Author": "Lillian Macias",
+    "Category": "Sci-Fi",
+    "Language": "French",
+    "Publication_date": "2019-07-07",
+    "ISBN": 2131282
+  },
+  {
+    "Name": "Naratyvas - ne",
+    "Author": "Dee Gould",
+    "Category": "Adventure",
+    "Language": "Lithuanian",
+    "Publication_date": "2016-08-31",
+    "ISBN": 2043601
+  },
+  {
+    "Name": "Rosalda",
+    "Author": "Joan Miles",
+    "Category": "Romance",
+    "Language": "English",
+    "Publication_date": "2016-09-27",
+    "ISBN": 3130976
+  },
+  {
+    "Name": "Hubert and Friends",
+    "Author": "Maddox Atkinson",
+    "Category": "Fantasy",
+    "Language": "English",
+    "Publication_date": "2021-07-19",
+    "ISBN": 3364048
+  },
+  {
+    "Name": "My great war",
+    "Author": "Patricia Martinez",
+    "Category": "Autobiography",
+    "Language": "Lithuanian",
+    "Publication_date": "2018-12-26",
+    "ISBN": 2534101
+  },
+  {
+    "Name": "Petrovic na ohote",
+    "Author": "Yvonne Oneil",
+    "Category": "Thriller",
+    "Language": "Russian",
+    "Publication_date": "2018-05-06",
+    "ISBN": 2711534
+  },
+  {
+    "Name": "Ja, Ja, Janis",
+    "Author": "Erika Kinney",
+    "Category": "Adventure",
+    "Language": "German",
+    "Publication_date": "2021-08-27",
+    "ISBN": 2393242
+  },
+  {
+    "Name": "Schnelle, Artur",
+    "Author": "Rhonda Fleming",
+    "Category": "Adventure",
+    "Language": "German",
+    "Publication_date": "2021-01-04",
+    "ISBN": 1465520
+  },
+  {
+    "Name": "Land of Elves",
+    "Author": "Arnold Clemons",
+    "Category": "Fantasy",
+    "Language": "French",
+    "Publication_date": "2016-08-03",
+    "ISBN": 2348538
+  },
+  {
+    "Name": "Nas put",
+    "Author": "Letitia Finley",
+    "Category": "Self-improvement",
+    "Language": "Russian",
+    "Publication_date": "2015-10-20",
+    "ISBN": 1906555
+  },
+  {
+    "Name": "Greitoji akis",
+    "Author": "Alexander Greene",
+    "Category": "Thriller",
+    "Language": "Lithuanian",
+    "Publication_date": "2020-12-25",
+    "ISBN": 3659955
+  }
+]
