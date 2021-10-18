@@ -35,9 +35,9 @@ namespace VismaInternshipTask
         /// <param name="ReturnDate">Expected book's return date</param>
         public void Take(int ISBN, string Name, DateTime ReturnDate) 
         {
-            if (Books.Any(x => x.ISBN == ISBN && !x.Taken)) //Checking if any of the available books match given ISBN
+            if (Books.Any(book => book.ISBN == ISBN && !book.Taken)) //Checking if any of the available books match given ISBN
             {
-                if(Books.Where(x => x.Taken && x.GetBorrower() == Name).Count() < 3) //Checking if the user already has taken 3 books (maximum)
+                if(Books.Where(book => book.Taken && book.GetBorrower() == Name).Count() < 3) //Checking if the user already has taken 3 books (maximum)
                 {
                     TimeSpan Period = ReturnDate - DateTime.Now;
                     if(Period.Days < 0) //Checking if the return date is valid
@@ -49,7 +49,7 @@ namespace VismaInternshipTask
                         throw new Exception("You can only take the book for two months. Please specify an earlier return date.");
                     }
                     //Converting an available book to taken
-                    Book Taken = Books.First(x => x.ISBN == ISBN && !x.Taken);
+                    Book Taken = Books.First(book => book.ISBN == ISBN && !book.Taken);
                     Taken.Take(DateTime.Now.Add(Period), Name);
                 }
                 else
